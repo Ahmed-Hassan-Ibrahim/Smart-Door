@@ -32,14 +32,9 @@ Load the code onto the ATmega32A and connect components following the schematic 
 
 ## Media
 ### Proteus Simulation
-![Proteus Simulation](Images/Proteus.png) *(Replace with actual simulation image)*
+![Proteus Simulation](Images/Proteus.png)
 
 ### Hardware Implementation
-![Hardware](Images/Hardware.jpg) *(Replace with actual hardware image)*
+![Hardware](Images/Hardware.jpg) 
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
---- 
-
-Let me know if you’d like further customization!
