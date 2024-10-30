@@ -27,9 +27,6 @@ To run or modify this project, you will need:
    ```
 2. Open the project in **Microchip Studio** to view or edit the C code.
 
-### Usage
-Load the code onto the ATmega32A and connect components following the schematic provided in the project documentation.
-
 ## Media
 ### Proteus Simulation
 ![Proteus Simulation](Images/Proteus.png)
